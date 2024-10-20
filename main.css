@@ -45,3 +45,12 @@ form .display input{
     font-size: 45px;
     color: black;
 }
+
+form input.equal{
+    width: 145px;
+}
+
+.btn{
+    transition: transform 0.5s;
+}
+
